@@ -1,6 +1,7 @@
  ### 👋 Hi, I’m Owoeye Precious
-- I'm A Fullstack Web Developer 
-- Laravel | Codeigniter | Mysql | Javascript | Jquery | React js | Bootstrap | Css | Core Php | Express js | Flutter | Dart
+- I'm A Fullstack Web Developer & currently into mobile app development
+- Here are the  Tech stacks that I use 
+- Laravel | Codeigniter | Mysql | Javascript | Jquery | React js | Bootstrap | Css | Core Php | Flutter | Dart
 
 
 <!---
