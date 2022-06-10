@@ -1,9 +1,8 @@
  ### 👋 Hi, I’m Owoeye Precious by name
-- I'm a Fullstack Web Developer & Mobile app Developer 
-- I love working on open source projects and  I’m looking to collaborate on customers-facing companies.
-- Here are the  Tech stacks I use for software developement
-- Flutter | Laravel | Codeigniter | Mysql | Javascript | Jquery | Vue js | Bootstrap | Css | Core Php | Sass|
--I’m currently learning latest software development technologies that will help create a perfect confidence as a software developer.
+- I'm a Mobile app Developer & Backend Developer
+- Creating Beautiful UI and learning clean codes
+- Flutter | Laravel | Codeigniter | Mysql | Firebase
+- Currently learning DSA in dart and after that moving to swift
 
 
 <!---
