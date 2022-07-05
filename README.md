@@ -1,8 +1,8 @@
- ### 👋 Hi, I’m Owoeye Precious by name
-- I'm a Mobile app Developer & Backend Developer
-- Creating Beautiful UI and learning clean codes
+ ### 👋 Hi, I’m Owoeye Precious
+- I'm a mobile app developer & backend developer
+- I love creating beautiful ui and learning clean codes during my spare time
 - Flutter | Laravel | Codeigniter | Mysql | Firebase
-- Currently learning DSA in dart and after that moving to swift
+
 
 
 <!---
