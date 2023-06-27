@@ -1,6 +1,4 @@
 <h2 align="center"> 👋 Hi, I’m Owoeye Precious </h2>
-<br/>
-<hr/>
 <p align="center">Mobile Engineer & Blockchain developer || Flutter || Next js || Ethereum  || Dapps | Solidity || Building Stuffs. 🥘 🔨 🚀 🌕 </p>
 
 
