@@ -1,7 +1,7 @@
- ### 👋 Hi, I’m Owoeye Precious
-- I'm a mobile app developer & backend developer
-- I love creating beautiful ui and learning clean codes during my spare time
-- Flutter | Laravel | Codeigniter | Mysql | Firebase
+<h1 align="center"> ### 👋 Hi, I’m Owoeye Precious </h1>
+<hr/>
+<h5>Full-Stack Blockchain Engineer || Ethereum || Bitcoin || Solana || Defi || Dapps | Solidity || Building Stuffs. 🥘 🔨 🚀 🌕 </h5>
+
 
 
 
