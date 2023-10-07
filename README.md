@@ -1,6 +1,6 @@
 <h2 align="center"> 👋 Hi, I’m Owoeye Precious </h2>
 # 💫 About Me:
-🔭 I’m a Mobile Engineer using Flutter<br><br>🌱 I’m currently learning web3<br><br>👯 I’m looking to collaborate on Web3 <br><br>💬 Ask me about Tech<br><br>📫 How to reach me owoeyeprecious36@gmail.com
+🔭 I’m a Mobile Engineer using Flutter and Blockchain Developer<br><br>🌱 I’m currently learning web3<br><br>👯 I’m looking to collaborate on Web3 projects <br><br>💬 Ask me about Tech<br><br>📫 How to reach me owoeyeprecious36@gmail.com
 
 
 ## 🌐 Socials:
