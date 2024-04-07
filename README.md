@@ -1,10 +1,10 @@
 <h2 align="center"> 👋 Hi, I’m Owoeye Precious </h2>
 # 💫 About Me:
-🔭 I’m a Mobile Engineer using Flutter, Kotlin and Blockchain Developer<br><br>🌱 I’m currently learning web3<br><br>👯 I’m looking to collaborate on Web3 projects <br><br>💬 Ask me about Tech<br><br>📫 How to reach me owoeyeprecious36@gmail.com
+🔭 I’m a Mobile Engineer using Flutter, Kotlin and Swift <br><br>🌱 I’m currently learning about blockchain & web3<br><br>👯 I’m looking to collaborate on Web3 projects <br><br>💬 Ask me about Tech<br><br>📫 How to reach me owoeyeprecious36@gmail.com
 
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/owoeye_precious) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/owoeye-precious-778763206) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Owoeye_eth) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tomide_precious) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/owoeye-precious-778763206) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Owoeye_eth) 
 
  <img src="https://profile-counter.glitch.me/parallelbox-lab/count.svg" />
 
@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=parallelbox-lab&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parallelbox-lab&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parallelbox-lab&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parallelbox-lab&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parallelbox-lab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
