@@ -1,6 +1,6 @@
 <h2 align="center"> 👋 Hi, I’m Owoeye Precious </h2>
 # 💫 About Me:
-🔭 I’m a Mobile Engineer using Flutter, Kotlin and Swift <br><br>🌱 I’m currently learning Native android development with kotlin<br><br>👯 I’m looking to collaborate on Web3 projects <br><br>💬 Ask me about Tech<br><br>📫 How to reach me owoeyeprecious36@gmail.com
+🔭 I’m a Mobile Engineer using Flutter and Kotlin  <br><br>🌱 I’m currently learning Native android development with kotlin<br><br>👯 I’m looking to collaborate on Web3 projects <br><br>💬 Ask me about Tech<br><br>📫 How to reach me owoeyeprecious36@gmail.com
 
 
 ## 🌐 Socials:
